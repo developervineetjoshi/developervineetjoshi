@@ -7,7 +7,7 @@
 <br>
 
 # About Me 
-Hello my name is Vineet Joshi and I am a Software Developer who is currently pursuing his Computer Science Degree and I also like to to UI DESIGNING as a hobby
+Hello my name is Vineet Joshi and I am a Software Developer who is currently pursuing his Computer Science Degree and I also like to to UI DESIGNING as a hobby.
 
 <br>
 <br>
